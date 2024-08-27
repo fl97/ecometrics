@@ -105,9 +105,14 @@
   transform: translateZ(0);
 }
 
+.input-group.focused {
+  border: 1px solid #2dd32d;
+}
+
 .logo {
   position: relative;
 }
+
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {

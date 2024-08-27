@@ -1,0 +1,13 @@
+.navbar {
+    background-color: var(--primary-color);
+}
+
+.nav-link{
+    display: flex;
+    font-weight: bold;
+}
+
+.logo {
+    height: 32px;
+    width: 32px;
+}
